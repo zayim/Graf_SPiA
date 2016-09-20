@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1356487646 source:c:\users\zayim\desktop\projekat 3 - nadin zajimovic\projekat 3\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"graf.h"
+
+1356486652 
+
+1356486652 c:\users\zayim\desktop\projekat 3 - nadin zajimovic\projekat 3\graf.h
+	<vector>
+	<stack>
+	<queue>
+	<list>
+
+1371810234 source:/home/nzajimovic/Desktop/github/SPiA/Graf_SPiA/Izvorni kod/main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"graf.h"
+
+1371810232 /home/nzajimovic/Desktop/github/SPiA/Graf_SPiA/Izvorni kod/graf.h
+	<vector>
+	<stack>
+	<queue>
+	<list>
+
